@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Sep 28 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update Dockerfile ([@apbypking](https://github.com/apbypking))
+
+#### Authors: 1
+
+- [@apbypking](https://github.com/apbypking)
+
+---
+
 # v0.0.1 (Mon Sep 28 2026)
 
 :tada: This release contains work from a new contributor! :tada:
